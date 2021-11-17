@@ -1,4 +1,10 @@
-# vue-markdown-editor
+# vue-markdown-editor - [Demo](https://nulloneguy.github.io/vue-markdown-editor/)
+
+A simple example of a Markdown editor on Vue.
+I just wanted to try localStorage and decided to upload this project
+
+## Screenshot
+![Screenshot](screenshot.png)
 
 ## Project setup
 ```
